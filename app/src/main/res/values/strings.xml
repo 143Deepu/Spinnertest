@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Spinnertest</string>
+    <string name="sg">Select Gender:</string>
+    <string-array name="gender">
+        <item>Select</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="days">
+        <item>Monday</item>
+        <item>Thuesday</item>
+        <item>Wednesday</item>
+        <item>Thersday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Subday</item>
+    </string-array>
+</resources>
